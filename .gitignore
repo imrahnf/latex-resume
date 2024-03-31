@@ -1,3 +1,7 @@
 main.*
-.DS_Store
 !main.tex
+
+Burhan_Faquiri_Resume.*
+!Burhan_Faquiri_Resume.tex
+
+.DS_Store

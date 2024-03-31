@@ -1,0 +1,27 @@
+Introduction
+At IBM, work is more than a job – it’s a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you’ve never thought possible. Are you ready to lead in this new era of technology and solve some of the world’s most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+When working in this abstract, fast pace and continuously changing tech world, resilience, commitment, and curiosity serve as the foundation for success as an IBM Developer.
+
+You will participate in many aspects of the software development lifecycle, such as design, code implementation, testing, and support. You will work to create software that is of high quality and meets our clients’ needs. You will also have the opportunity to become a contributor within Open Source communities across multiple disciplines.
+
+In your role, you will be supported by mentors and coaches who will encourage you to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground-breaking impact for the wider business, our external clients, & their customers. Our culture of flexibility and freedom are pillars that embrace long-term career growth and learning opportunities in an environment that highlights your unique skills and experience.
+
+
+Required Technical and Professional Expertise
+
+    Degree in Computer Science or Computer Engineering
+    Applied experience with Java
+    Familiarity with APIs
+    Basic knowledge of operating systems and how they work (i.e. Operating systems courses); Container technologies; Internet Services; and/or Managed Services
+    Strong communication skills
+    Experience using Agile methodologies
+    An understanding of the software development lifestyle, DevOps
+    Experience working on projects in a team environment
+
+
+Preferred Technical and Professional Expertise
+
+    Masters Degree in Computer Science or Computer Engineering
+    AI, OpenSource, and cloud-based technology experience
