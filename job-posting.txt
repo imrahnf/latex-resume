@@ -1,0 +1,15 @@
+Write, modify, integrate and test software code
+Maintain existing computer programs by making modifications as required
+Identify and communicate technical problems, processes and solutions
+Prepare reports, manuals and other documentation on the status, operation and maintenance of software
+Assist in the collection and documentation of user's requirements
+Assist in the development of logical and physical specifications
+Research and evaluate a variety of software products
+Write, modify, integrate and test software code for e-commerce and other Internet applications
+
+Programming knowledge required:
+Angular.js
+CSS
+HTML editing software
+Java
+JavaScript
