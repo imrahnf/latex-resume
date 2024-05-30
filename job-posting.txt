@@ -1,0 +1,34 @@
+
+Primary Responsibilities
+
+    Contribute to development of features and fixes within Deque’s axe DevTools for Android products, with proper test coverage in place
+    Contribute to codebase health and identify areas to improve architecture and lessen tech debt
+    Proactively communicate with the team and contribute to the remote team experience
+    Review pull requests and offer productive feedback
+    Work with support team and customers to resolve tickets for customer success
+    Work with accessibility experts in development of rules with WCAG conformance
+    Write and review technical proposals
+    Stay up to date on emerging technologies and recommend their adoption where it could improve the product
+    Contribute to the public documentation for Android product(s) to ensure accuracy with each release
+
+Requirements
+
+    Be a self-starter and have a drive to learn
+    Kotlin and XML view experience
+    Understanding of Services within Android
+    Collaborate with team members for cross-platform consistency throughout the product
+    Foundational understanding of testing practices, specifically Espresso
+    Knowledgeable of the Android ecosystem
+    Eager to learn practices such as: security, dependency injection, integration with RESTful APIs, MVVM architecture, unit testing, etc
+    Strong communication and collaboration skills with the ability to lead technical discussions with technical, and non-technical team members
+    Experience working on an Agile development team
+    Has worked on a product team (remotely)
+
+Additional Skills Desired
+
+    Accessibility
+    Jetpack Compose experience
+    Basic understanding of Appium
+    Basic understanding of Java
+    Understanding of framework integration
+    Interested in mentoring team members in best practices as relates to Android Development and/or mobile accessibility
