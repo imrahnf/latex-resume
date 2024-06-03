@@ -1,0 +1,77 @@
+Company Profile
+
+Dream Payments is a venture funded, FinTech company offering cloud payments solutions to financial institutions and insurance companies, enabling them to provide frictionless digital and mobile payment services to their end customers. Our mission is to simplify the world of payments for our clients and their end customers, and we offer an omni-channel digital claims payment solution for insurers.
+
+Insurance carriers pay out over $4 trillion in insurance claims each year, with over 50% of those payments still occurring through slow, inconvenient, and expensive processes. We custom develop the entire payments solution, from terminal hardware, mobile point of sale applications, web portal applications, to back-office services, all in-house.
+
+Why Dream Payments
+
+· Global cashless payment volumes are set to increase by more than 80% from 2020 to 2025, from about 1tn transactions to almost 1.9tn, and to almost triple by 2030, according to analysis by PwC and Strategy&.
+
+· Instant insurance payments have already gained traction as policyholders demand fast claims payouts and convenient premium payments. This is a trend that will continue to grow in 2023 and beyond.
+
+· Our clients, partners, and investors include some of the leading banks and insurance companies in North America, including JPMorgan Chase, Mastercard, Intuit, and more.
+
+Here's how you’ll contribute to the team and customer success:
+
+Dream Payments is looking for a Junior Software Engineer to join our team and help us develop and implement container or serverless based micro services developed in Java or GoLang to be deployed in the AWS Cloud. You will work closely with our development team to ensure that our services are optimized for performance and scalability.
+
+We are looking for someone who has some experience developing micro services that expose standards based RESTFul API, developing in Java and GoLang, and be able to create detailed designs and effort estimations with work breakdowns.
+
+It would be preferred that you have has some experience with AWS Cloud Native technologies using AWS Cognito, AWS SNS, AWS SQS, AWS KMS, AWS RDS, Aurora PostGres, and Lambda as well as have experience in the Financial and Insurance sector.
+
+Previous payments Integration experience would be beneficial as well. If you have a passion for developing high availability and scalability architectures and have the skills described above, we want to hear from you!
+
+Key Accountabilities
+
+    Analysis, develop and test web services, micro services and web-based applications.
+    Perform validation and verification of APIs by preparing sample data and unit testing components.
+    Analyze and debug systems that are lower complexity and may be routine in nature, requiring varied responses depending on the situation.
+    Interact with peers before updating supervisors, interaction will often be with non-management levels within Dream Payments.
+    Able to work with and refactor legacy code and Perform peer code review.
+    Collaborate with internal cross-functional teams to fix and improve products.
+    Evaluate system processes and programs to identify inefficiencies.
+    Assist in the development of deployment build scripts.
+    Assist with deployment of code and environments as needed.
+    Participate in production support activities for troubleshooting and investigating issues.
+    Be available for production support rotation with the rest of the team.
+    Ensure assigned tasks are completed and delivered within the project timelines, working overtime as needed.
+    Ensure software is up to date with latest technologies.
+
+Basic Qualifications
+
+    1+ years of experience with modern programming languages such as Java or Golang.
+    Working knowledge of OOPs concepts, data structures, algorithms, SOA Architecture. principles and Software design patterns.
+    1+ years of experience with AWS Cloud computing services such as Lambda, CloudFormation, S3, SQS, DynamoDB, SNS, CloudWatch etc.
+    Basic knowledge or experience with Spring Boot.
+    Experience with using IDEs such as IntelliJ IDEA, Visual Studio Code.
+    Basic knowledge or experience with SQL scripting, and working with one of the following databases MySQL, DynamoDB, or PostgreSQL.
+    Hands on experience developing RESTful Web Services.
+    Hands on experience using version control tools such as GIT.
+    Self-starter with the ability to deliver with minimal instruction and supervision.
+
+Professional Skill Requirements
+
+    University degree in Software Engineering, Computer Science, or any other equivalent degree preferred.
+    Proven success in contributing to a team-oriented environment.
+    Proven ability to communicate and work with an offshore/remote team.
+    Proven ability to work creatively and analytically in a problem-solving environment.
+    Excellent organization, personal leadership, communication (written and oral), critical-thinking and interpersonal skills.
+    Basic knowledge or experience with various SDLC methods like Agile, scrum, Iterative or traditional waterfall.
+
+Bonus Points
+
+    Develop technical detailed designs of proposed software solutions including system designs and integration designs
+    Basic knowledge or experience with bash scripting
+    Hands on experience with Linux/Unix systems
+    Basic knowledge or experience with Docker/Fargate/Kubernetes container management platforms.
+
+We thank all applicants for their interest, but only those selected for an interview will be contacted.
+
+Dream Payments is an equal opportunity employer. We value diversity and strive to create an inclusive and supportive work environment for all employees. We welcome applications from people with disabilities – accommodations are available upon request for candidates taking part in all aspects of the selection process.
+
+Job Types: Full-time, Permanent
+
+Pay: $45,000.00-$60,000.00 per year
+
+Benefits:
