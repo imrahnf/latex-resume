@@ -1,0 +1,35 @@
+Junior Developer (C# and React)
+Responsibilities
+
+    Collaborate with senior developers to understand project requirements and translate them into technical specifications.
+    Develop high-quality software code in C# and React, following best practices and coding standards.
+    Participate in code reviews to ensure code quality and maintainability.
+    Debug and troubleshoot issues reported by clients or internal stakeholders.
+    Write unit tests to ensure code reliability and robustness.
+    Assist in the deployment of software solutions and provide support during the release process.
+    Stay up-to-date with emerging technologies and trends in software development, particularly in the C# and React ecosystems.
+    Contribute ideas and suggestions to improve processes and enhance team productivity.
+    Communicate effectively with team members and stakeholders to provide project updates and seek clarification when needed.
+
+Requirments
+
+    Degree in Computer Science, Software Engineering, or a related field.
+    Strong proficiency in C# programming language.
+    Experience with React framework for building user interfaces.
+    Knowledge of web development technologies such as HTML5, CSS3, and JavaScript.
+    Familiarity with version control systems, preferably Git.
+    Understanding of software development methodologies such as Agile or Scrum.
+    Excellent problem-solving skills and attention to detail.
+    Strong communication and interpersonal skills.
+    Ability to work effectively both independently and as part of a team.
+    Previous internship or project experience in software development is a plus.
+
+Bureau Veritas is a world leader in testing, inspection and certification services.
+When we look at Bureau Veritas, we want to see a reflection of the communities in which we work. Inclusion is about actively involving every employee’s ideas, knowledge, perspectives, approaches and styles to maximize business success. Inclusion is about attracting new talent who will bring more diversity to our workforce, with differences in culture, professional backgrounds and beliefs.
+Our purpose: shaping a world of trust.
+Guaranteeing quality, ensuring Health and Safety, mitigating risks and improving performance as well as environmental protection and social responsibility … This is what Bureau Veritas is about, truly believing that it contributes to bettering society.
+Blending performance & integrity, with ambition & humility, responsibility & openness, we are proud that our people leave a mark on what they do.
+We respect our people and believe in our talents.
+We empower them to leave their mark, working as a team for the benefit of our 400,000 clients across 140 countries.
+We believe that leaving a mark is a true challenge and opportunity for every one of us, a sign of trust and impact, a bond with the future, a proof of growth and development.
+Being part of the BV family, is more than just working, it’s being convinced that you will Leave your mark…. in shaping a world of trust.
