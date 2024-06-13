@@ -1,0 +1,65 @@
+Summary:
+
+We are currently seeking a Software Developer to join our rapidly growing engineering team. This role is for someone who is passionate about building innovative solutions and being exposed to new challenges and technologies while making an impact. This role is available to candidates across Canada, excluding Quebec.
+
+What your team does:
+
+We at Clio have an amazing team that is on a mission to transform the legal experience for all, and our engineering team’s goal is to deliver an incredible experience to our customers. In order to enable our engineers to build the best product they can, our development team has to build the best possible product that is high performing, reliable, scalable, and beautiful. You can expect this role to focus on net-new API development for a trailblazing product that is yet to be announced, but it is meant to solve a long-standing problem which has not been addressed in the industry so far.
+
+A day in the life might look like:
+
+    Working with a team of developers to solve complex problems and provide elegant solutions to Clio customers;
+
+    Designing, developing, and testing software applications using C#, .NET 6, MVC, and related technologies
+
+    Working with other developers to build and maintain scalable and reliable software systems
+
+    Participating in the full software development lifecycle, from requirements gathering to deployment
+
+    Troubleshooting and debugging software applications
+
+    Keeping up with the latest trends and technologies in software development
+
+    Learning new things, exploring new territory, and challenging yourself
+
+    Participating in diverse projects and collaborating with cross-functional engineering teams across three countries
+
+    Reviewing and providing feedback on a peer's code, both from within your own team or across all of Clio
+
+​
+What you may have:
+
+    Years of working experience in software development with C#, .NET, and MVC
+
+    Experience with NHibernate, Fluent NHibernate, Fluent Validation, Linq To XML, NUnit, Moq, Moq.AutoMocker, IIS , Microsoft SQL Server, FileStream Documents, JQuery, Ninject, and Async Calls to WebService
+
+    Problem-solving and critical thinking skills
+
+    A diverse base of knowledge that allows you to help your team solve complex technical problems
+
+    A history of successful projects (as well as a collection of lessons learned from failed projects)
+
+    Clear communication skills and the ability to build trusted relationships with stakeholders and customers
+
+    The ability to grasp new technologies quickly and work effectively in a dynamic environment that includes distributed teams and customers
+
+What you will find here:
+
+Compensation is one of the main components of Clio’s Total Rewards Program. We have developed a series of programs and processes to ensure we are creating fair and competitive pay practices that form the foundation of our human and high-performing culture.
+ 
+
+Some highlights of our Total Rewards program include: 
+
+    Competitive, equitable salary with top-tier health benefits, dental, and vision insurance 
+
+    Hybrid work environment, with expectation for local Clions (Vancouver, Calgary, Toronto, and Dublin) to be in office min. once per week on our Anchor Day. 
+
+    Flexible time off policy, with an encouraged 20 days off per year.
+
+    $2000 annual counseling benefit
+
+    RRSP matching and RESP contribution 
+
+    Clioversary recognition program with special acknowledgement at 3, 5, 7, and 10 years​
+
+The expected salary range* for this role is $102,800 to $139,200 CAD. Please note there are a separate set of salary bands for other regions based on local currency.
