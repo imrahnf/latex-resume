@@ -1,0 +1,22 @@
+This position is a Junior Software Developer working on the Magnum NMS development team. Magnum NMS is monitoring software for the Magnum OS stack that allows for real-time fault detection and control of Evertz and 3rd party hardware. Magnum NMS is used by many Evertz customers and is considered part of a key software component for broadcast facilities. In this position, you will be resolving bugs, implementing new features, and suggesting practical UI designs in a mix of Java front-end/back-end, as well as web-based environments. You will be paired with a Senior Software Development mentor and work with a team of other software developers where you can learn and grow your software development career. This position is a hybrid role with some in-office time and some remote time per week.
+
+Minimum Qualifications:
+• Degree in Computer Science or Computer/Software Engineering or related technical field from an accredited University.
+• Experience with Java programming language
+• At least 1 year of practical experience in an enterprise software development environment.
+• Strong problem-solving skills
+• Basic understanding of algorithms and data structures
+• Good oral and written communication skills
+• Good time management skills
+• Ability to multitask.
+• Work well in a team and group setting
+• Ability to work in a Hybrid work environment.
+Desired Qualifications - not required.
+• Programming experience with Swing, Spring, Maven
+• Programming experience with HTML, CSS, JavaScript
+• Experience with web development, including at least 1 modern framework.
+• Experience with mySQL databases
+• Knowledge of networking concepts such as TCP/IP, SNMP
+• Familiarity with Windows and Linux operating systems
+• Experience with source code management (SVN, Git)
+• Experience with debugging tools such as Wireshark and tcpdump
