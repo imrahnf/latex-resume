@@ -1,22 +1,76 @@
-This position is a Junior Software Developer working on the Magnum NMS development team. Magnum NMS is monitoring software for the Magnum OS stack that allows for real-time fault detection and control of Evertz and 3rd party hardware. Magnum NMS is used by many Evertz customers and is considered part of a key software component for broadcast facilities. In this position, you will be resolving bugs, implementing new features, and suggesting practical UI designs in a mix of Java front-end/back-end, as well as web-based environments. You will be paired with a Senior Software Development mentor and work with a team of other software developers where you can learn and grow your software development career. This position is a hybrid role with some in-office time and some remote time per week.
+Software Engineer - Fuel Channel Inspection Optimization in Digital Innovations team
 
-Minimum Qualifications:
-• Degree in Computer Science or Computer/Software Engineering or related technical field from an accredited University.
-• Experience with Java programming language
-• At least 1 year of practical experience in an enterprise software development environment.
-• Strong problem-solving skills
-• Basic understanding of algorithms and data structures
-• Good oral and written communication skills
-• Good time management skills
-• Ability to multitask.
-• Work well in a team and group setting
-• Ability to work in a Hybrid work environment.
-Desired Qualifications - not required.
-• Programming experience with Swing, Spring, Maven
-• Programming experience with HTML, CSS, JavaScript
-• Experience with web development, including at least 1 modern framework.
-• Experience with mySQL databases
-• Knowledge of networking concepts such as TCP/IP, SNMP
-• Familiarity with Windows and Linux operating systems
-• Experience with source code management (SVN, Git)
-• Experience with debugging tools such as Wireshark and tcpdump
+AtkinsRéalis is one of Canada's largest private sector nuclear engineering groups. We have been providing a wide range of services to the nuclear industry in Canada and around the world since for more than 60 years. We are proud to be the steward of Canadian CANDU nuclear technology.
+
+Objective: Enhance the RPA-driven inspection process by developing software solutions and integrating them seamlessly with the RPA framework.
+
+    Contribute to cutting-edge technology in nuclear safety.
+    Work collaboratively in a dynamic engineering environment.
+    Opportunity to shape the future of fuel channel inspections.
+
+Location – Mississauga, ON
+
+Your role within the team:
+
+Integration and Interoperability:
+
+    Collaborate closely with the RPA Engineer to understand the existing RPA infrastructure.
+    Develop APIs and connectors to integrate RPA bots with other systems (e.g., data storage, reporting tools).
+    Ensure smooth data flow between RPA processes and custom software components.
+
+Custom Data Processing Tools:
+
+Design and implement software modules for advanced data processing:
+
+    Real-time data streaming and aggregation.
+    Statistical analysis and anomaly detection.
+    Feature engineering for predictive models.
+    Optimize data pipelines for speed and efficiency.
+
+User-Friendly Interfaces:
+
+Create intuitive user interfaces for inspection teams and maintenance personnel:
+
+    Web-based dashboards for visualizing inspection results.
+    Configuration panels for adjusting RPA parameters.
+    Alerts and notifications for critical events.
+
+Algorithm Development:
+
+Collaborate with the RPA Engineer and domain experts to enhance predictive models:
+
+    Implement machine learning algorithms for tube degradation prediction.
+    Explore novel approaches for early defect detection.
+    Fine-tune model hyperparameters based on feedback.
+
+Testing and Validation:
+
+Conduct rigorous testing of software components:
+
+    Unit testing, integration testing, and performance testing.
+    Validate data consistency across RPA and custom software.
+    Ensure compliance with safety and security standards.
+
+Continuous Improvement:
+
+    Monitor system performance and identify bottlenecks.
+    Propose enhancements to streamline the entire inspection process.
+    Stay updated with industry trends and best practices.
+
+Why choose AtkinsRéalis as an employer?
+
+Because we offer:
+
+    The opportunity to work on various major projects for internal and external clients.
+    An exciting environment where work-life balance is important.
+    A wide array of learning and development opportunities.
+    Competitive pay, flexible benefits, an employee share plan, and a defined contribution pension plan.
+    A work environment focused on health and safety.
+
+The ideal candidate:
+
+    Bachelor's or Master's degree in Computer Science or related field.
+    Proficiency in programming languages (Python, Java, C++, etc.).
+    Experience with web development frameworks (e.g., React, Angular).
+    Familiarity with data visualization libraries (D3.js, Plotly).
+    Strong problem-solving skills and attention to detail.
