@@ -1,22 +1,43 @@
-This position is a Junior Software Developer working on the Magnum NMS development team. Magnum NMS is monitoring software for the Magnum OS stack that allows for real-time fault detection and control of Evertz and 3rd party hardware. Magnum NMS is used by many Evertz customers and is considered part of a key software component for broadcast facilities. In this position, you will be resolving bugs, implementing new features, and suggesting practical UI designs in a mix of Java front-end/back-end, as well as web-based environments. You will be paired with a Senior Software Development mentor and work with a team of other software developers where you can learn and grow your software development career. This position is a hybrid role with some in-office time and some remote time per week.
+Job Description
 
-Minimum Qualifications:
-• Degree in Computer Science or Computer/Software Engineering or related technical field from an accredited University.
-• Experience with Java programming language
-• At least 1 year of practical experience in an enterprise software development environment.
-• Strong problem-solving skills
-• Basic understanding of algorithms and data structures
-• Good oral and written communication skills
-• Good time management skills
-• Ability to multitask.
-• Work well in a team and group setting
-• Ability to work in a Hybrid work environment.
-Desired Qualifications - not required.
-• Programming experience with Swing, Spring, Maven
-• Programming experience with HTML, CSS, JavaScript
-• Experience with web development, including at least 1 modern framework.
-• Experience with mySQL databases
-• Knowledge of networking concepts such as TCP/IP, SNMP
-• Familiarity with Windows and Linux operating systems
-• Experience with source code management (SVN, Git)
-• Experience with debugging tools such as Wireshark and tcpdump
+Machine Learning Analyst
+
+AtkinsRéalis is one of Canada's largest private sector nuclear engineering groups. We have been providing a wide range of services to the nuclear industry in Canada and around the world since for more than 60 years. We are proud to be the steward of Canadian CANDU nuclear technology.
+
+Reporting to the Digital Solutions Manager, the Machine Learning Engineer will develop applications using a wide range of machine learning techniques, algorithms and tools to extract tangible value from Nuclear plant asset and operational data. She / he will have a baseline level of proficiency in Data Science and will lead data collection, curation, and preprocessing, to training models and deploying them to production.
+
+Location - Mississauga, ON
+
+Your role within the team:
+
+    Develop, Deploy and Maintain Data Solutions leveraging ML algorithms.
+    Ensure high levels of data quality through the development and production lifecycles.
+    Seek and obtain the required data sets from multiple sources.
+    Define data validation strategies.
+    Perform Feature Engineering for datasets.
+    Train models to the desired level of prediction accuracy.
+    Analyzing the errors of the model and designing strategies to overcome them.
+    Deploying models to production through a continuous delivery mechanism in an Agile DevOps environment.
+
+Why choose AtkinsRéalis as an employer?
+
+Because we offer:
+
+    The opportunity to work on various major projects for internal and external clients.
+    An exciting environment where work-life balance is important.
+    A wide array of learning and development opportunities.
+    Competitive pay, flexible benefits, an employee share plan, and a defined contribution pension plan.
+    A work environment focused on health and safety.
+
+The ideal candidate:
+
+    Bachelor’s degree in Engineering or Honours degree in Computer Science, Information Systems, or similar program, with specialization in AI / ML.
+    1- 2 years of ML development and deployment experience in an industrial setting; Nuclear experience is an asset.
+    Experience in Project Management is an asset. 
+    Competence in building complex models and some history of innovation is key.
+    Proficient in Data Science / Advanced Analytics / Machine Learning key principles.
+    Experience with concrete inspection or crack detection is an asset.
+    Experience in collaborating with multi discipline teams to develop ML solutions in a cloud based environment.
+    Solid understanding of data science, and the ability to relate data to value delivery.
+    Experience in SaaS / XaaS delivery models.
+    Experience in managing app development projects in a mature DevOps environment.
