@@ -1,22 +1,48 @@
-This position is a Junior Software Developer working on the Magnum NMS development team. Magnum NMS is monitoring software for the Magnum OS stack that allows for real-time fault detection and control of Evertz and 3rd party hardware. Magnum NMS is used by many Evertz customers and is considered part of a key software component for broadcast facilities. In this position, you will be resolving bugs, implementing new features, and suggesting practical UI designs in a mix of Java front-end/back-end, as well as web-based environments. You will be paired with a Senior Software Development mentor and work with a team of other software developers where you can learn and grow your software development career. This position is a hybrid role with some in-office time and some remote time per week.
+About Barley
 
-Minimum Qualifications:
-• Degree in Computer Science or Computer/Software Engineering or related technical field from an accredited University.
-• Experience with Java programming language
-• At least 1 year of practical experience in an enterprise software development environment.
-• Strong problem-solving skills
-• Basic understanding of algorithms and data structures
-• Good oral and written communication skills
-• Good time management skills
-• Ability to multitask.
-• Work well in a team and group setting
-• Ability to work in a Hybrid work environment.
-Desired Qualifications - not required.
-• Programming experience with Swing, Spring, Maven
-• Programming experience with HTML, CSS, JavaScript
-• Experience with web development, including at least 1 modern framework.
-• Experience with mySQL databases
-• Knowledge of networking concepts such as TCP/IP, SNMP
-• Familiarity with Windows and Linux operating systems
-• Experience with source code management (SVN, Git)
-• Experience with debugging tools such as Wireshark and tcpdump
+Compensation accounts for up to 70% of an organization’s total operating costs, yet the processes and tools used to determine who gets paid what, why, and how is still painfully convoluted and manual. How is this possible? Believe it or not, most companies are still using a dizzying amount of spreadsheets that ultimately leaves leadership guessing and the employees puzzled or worse yet, unfairly compensated. 
+
+Barley is a venture-backed startup focused on building solutions for a vast array of compensation challenges (from managing salary bands to conducting pay equity analysis). With Barley’s Compensation Management platform, our goal is to empower organizations to make better pay decisions.
+
+Hybrid Across Two Hiring Hubs: Barley is a remote-first company that supports a flexible approach to work. Our team is co-located across two hiring hubs (Toronto and Vancouver and up to 200kms away from either). While we all predominately work remotely (i.e. work from home), we offer dedicated offices in both Toronto and Vancouver so that our team can collaborate and come together in-person, as desired.
+What You’ll Be Doing
+
+        Solving technical challenges and building features as we work towards growing the Barley platform
+        Collaborating closely with other engineers and product in an agile environment
+        Building with a strong orientation towards data schemas, analytics, and database design
+        Taking initiative to understand “the why” of what you’re building, the business context, and user problems to propose improvements, eliminate gaps, and reduce risk
+
+Experience & Skills You'll Bring to the Team
+
+        Strong foundational knowledge of software development
+        Relentless curiosity to learn new things and receptive to feedback
+        Experience with modern web application development, using TypeScript (or JavaScript), ReactJS, GraphQL, Node.js Vite, NestJS, and/or Hasura
+        Experience with schema design and relational databases such as PostgreSQL
+        Professional experience shipping cloud-based software products to market is a PLUS
+        Experience with cloud and serverless infrastructure (GCP, AWS or Azure) is a PLUS
+        Hands-on experience with microservices, containerization (Docker), and CI/CD (Github Actions) is a PLUS
+        Haven’t worked with some of our specific technologies? No problem, a deep experience with web technologies and willingness to learn our tech stack goes a long way
+
+Why You’ll Love Working at Barley
+
+        As an early member of the Barley team, you’ll play a key role in setting the stage for future employees
+        You’ll help push forward an important mission of driving more rational and equitable pay
+        You’ll have a piece of the pie - every Barley employee participates in our stock option plan
+        A generous vacation policy and full health and benefits coverage that kick in on your first day
+        An annual learning and development allowance to invest in your professional growth
+        We're a remote-first company, but also have offices in Toronto and Vancouver for the option to collaborate in-person
+        We host fun company-sponsored events (e.g. team dinners) as well as multi-day off sites (like our retreats which have been cabins in Whistler, BC and Ontario lake country)
+
+Our Interview Process
+
+        Stage 1: Screening Interview: This is a 45 minute Zoom meeting where we'll share more about the role, learn about your background / experience (and alignment to the position), and answer any questions you may have.
+        Stage 2: Skills Interview: This is an hour and a half Zoom meeting that consists of a pair programming exercise with the Head of Engineering, a system design exercise, as well as technical questions to assess your experience.
+        Stage 3: Case Interview & Meet the Founders Interview: This is an hour and a half Zoom meeting that consists of a logic exercise related to our space and discussing your experience and major accomplishments with one of the co-founders.
+
+Compensation
+
+At Barley, we believe that more transparent compensation practices support more equitable pay for all. Depending on your experience/seniority, this role's compensation is:
+💵 Base Salary: $100,000 - $130,000
+📈 Stock Options: 0.1% - 0.3%
+
+Barley is an equal opportunity employer that is committed to building an equitable workplace that is diverse and inclusive. We actively encourage candidates from all backgrounds to consider us as a potential employer. If you require any accommodation at any point during our virtual interview process, please email us at work@barley.io. 
