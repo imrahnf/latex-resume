@@ -1,22 +1,45 @@
-This position is a Junior Software Developer working on the Magnum NMS development team. Magnum NMS is monitoring software for the Magnum OS stack that allows for real-time fault detection and control of Evertz and 3rd party hardware. Magnum NMS is used by many Evertz customers and is considered part of a key software component for broadcast facilities. In this position, you will be resolving bugs, implementing new features, and suggesting practical UI designs in a mix of Java front-end/back-end, as well as web-based environments. You will be paired with a Senior Software Development mentor and work with a team of other software developers where you can learn and grow your software development career. This position is a hybrid role with some in-office time and some remote time per week.
+Who we are
+Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities.
+ 
+Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Geotab Marketplace ®, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes.
+ 
+Our team is growing and we’re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it’s like to be a Geotabber, check out our blog and follow us @InsideGeotab on Instagram. Join our talent network to learn more about job opportunities and company news.
+Who you are:
 
-Minimum Qualifications:
-• Degree in Computer Science or Computer/Software Engineering or related technical field from an accredited University.
-• Experience with Java programming language
-• At least 1 year of practical experience in an enterprise software development environment.
-• Strong problem-solving skills
-• Basic understanding of algorithms and data structures
-• Good oral and written communication skills
-• Good time management skills
-• Ability to multitask.
-• Work well in a team and group setting
-• Ability to work in a Hybrid work environment.
-Desired Qualifications - not required.
-• Programming experience with Swing, Spring, Maven
-• Programming experience with HTML, CSS, JavaScript
-• Experience with web development, including at least 1 modern framework.
-• Experience with mySQL databases
-• Knowledge of networking concepts such as TCP/IP, SNMP
-• Familiarity with Windows and Linux operating systems
-• Experience with source code management (SVN, Git)
-• Experience with debugging tools such as Wireshark and tcpdump
+You are a skilled Software Developer with strong software design and implementation skills. You are skilled in the use of current programming languages and tools and generally act as a team resource on custom development initiatives. You find reward in building robust software that can function 24/7 with no down time. If you love technology, are passionate about creating scaleable software, SDKs and APIs and are keen on contributing to open source projects - we would love to hear from you.
+What you'll do:
+
+You will be part of a team who builds a web-based, state-of-the-art, telematics platform that makes sense of the data collected by our custom-built hardware. We receive detailed data and metrics for millions of vehicles and devices globally, which is processed and interpreted to create actionable information for our customers. You will write high-performance C# code to process and store this information in real time. Understanding the performance impact of good systems design, multithreading, and scalability is a must for this position.
+How you'll make an impact
+
+    Design and Implementation - Assist in the design and implementation of new software applications and cloud-based microservices. Provide design documents and documentation to ensure efficient maintenance and code reuse.
+    Write Code - Write high-quality code in C# .NET in a scalable environment.
+    Follow Best Practices - Assist in maintaining software development best practices. Participate in development of prototypes and proofs of concept.
+    Code Reviews - Contribute to comprehensive code reviews and ensure that coding standards are followed, looking for logic errors and other bugs
+    Maintenance - Perform maintenance programming for existing applications and help maintain code quality, organization, and automation.
+    Troubleshoot - Analyze call stacks, trace files, and performance data to troubleshoot and identify and fix the root cause of bugs.
+    Quality - Perform Test-Driven and Security-Driven Development. Provide recommendations for improvements in the overall development process.
+    Teamwork - Work collaboratively within the team and across other teams/departments. Mentor junior team members as needed.
+    On-Call - Participate in a 24/7 on-call rotating schedule.
+
+What you'll bring to the role
+
+    1-3 years of experience with using Linux, C# and .Net Core and experience with optimization and multithreaded programming.
+    1-3 years of experience with System Design and Architecture.
+    Deep understanding of PostgreSQL.
+        Proficiency with queries, data types, indexes, transactions and concurrency
+        Advanced understanding of performance tuning
+    Proven experience with advanced database management features
+        Working knowledge of table partitioning
+        Experience with sharding
+    Working experience with distributed and cloud solutions
+        Cloud SQL solutions (AWS, GCP, Azure)
+        Distributed Postgres (Citus, CockroachDb)
+    Experience with writing unit tests and automation tests.
+    Experience with Docker and Kubernetes.
+    Proficiency in Git (or some other distributed source control tool) and are comfortable with resolving merge conflicts and renaming branches, etc.
+    Bachelor of Computer Science, Electrical/Software Engineering or other related degrees.
+
+If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply.
+ 
+Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees.
