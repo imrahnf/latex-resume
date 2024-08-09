@@ -1,35 +1,62 @@
-Software Engineer, New Grad (2025)
-at Sentry (View all jobs)
-Toronto, Canada
-About Sentry
+Genesys empowers more than 8,000 organizations in over 100 countries to improve loyalty and business outcomes by creating the best experiences for customers and employees. Through Genesys Cloud, the #1 AI-powered experience orchestration platform, Genesys delivers the future of CX to organizations of all sizes so they can provide empathetic, personalized experiences at scale. As the trusted, all-in-one platform born in the cloud, Genesys Cloud accelerates growth for organizations by enabling them to differentiate with the right customer experience at the right time.  
 
-Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+We employ more than 6,000 people across the globe who embrace empathy and cultivate collaboration to succeed. And, while we offer great benefits and perks like larger tech companies, our employees have the independence to make a larger impact on the company and take ownership of their work. Join the team and create the future of customer experience together.
 
-With more than $217 million in funding and 100,000+ organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
-About the role
+Do you want to be part of a fast-paced and innovative team where your work and ideas will impact more than 70 billion customer interactions in over 100 countries each year through the power of the cloud and AI?
+ 
 
-Sentry is looking for talented new graduates to join our growing Software Engineering teams. Engineers at Sentry are challenged to solve a range of technical problems: from building fast and delightful UIs for navigating millions of error and performance events, to architecting solutions that ingest, store, and index terabytes of data every day. As a Software Engineer, New Grad, you will be coached by a diverse team of multi-talented engineers and will directly impact a complex and growing codebase.
-In this role you will
+Genesys Cloud processes millions of contact center interactions daily. Recording is a key feature set that allows interactions to be securely recorded, stored, accessed, and managed. Quality Management (QM) leverages the recordings to provide insight into the quality of the interactions through manual and AI-assisted evaluations, allowing the overall contact center experience to be improved through agent evaluation and coaching.
 
-    Work with a team to develop and extend the Sentry product by writing software in either Python or JavaScript (or both)
-    Be responsible for full software development lifecycle - design, development, testing, and operating in production
-    Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders (such as product managers)
-    Act on feedback, coaching, and mentorship from your manager and teammates
+As an Associate Software Developer on the Recording and QM Team, you will be using your technical expertise to deliver new features and drive continuous improvement of existing services. You will work in a fast-paced environment that supports continuous change, innovation, and experimentation. You will work with both established and cutting-edge technologies like Java, JavaScript, React, Python, Kafka, DynamoDB, Redis, AWS Lambda, and various other AWS services to build on our microservices architecture. 
 
-You’ll love this job if you
+This is a great opportunity for career growth to work on modern technologies in a world-class Software as a Service (SaaS) solution.
 
-    Want to actively use the product you're building (we dogfood Sentry every day)
-    Want to start your career at a high-growth startup
-    Want to join a modern software development team that iterates & ships code rapidly
-    Are excited at the opportunity to contribute to an open-source project every day
 
-Qualifications
+Successful candidates will have the following traits:
 
-    B.S. or higher in Computer Science (or similar degree program)
-    At least 1 previous internship or equivalent practical experience
-    Implementation skills with one or more general-purpose programming languages, e.g. Python, JavaScript, Java, etc.
-    Good knowledge of algorithms, data structures, and object-oriented design principles
-    Experience working with version control and unit testing
-    Please note visa sponsorship is not available for this position
+    Demonstrate high level of curiosity.
 
-The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is $124,000 to $134,000. A successful candidate’s actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidate’s work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentry’s employee benefit plans/programs applicable to the candidate’s position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Company’s benefit plans/programs.
+    Possess solid technical and analytical skills.
+
+    Work closely and collaboratively with team members.
+
+    Proactively identify issues and improvement opportunities and follow up on them.
+
+    Keep up to date on technologies and apply them to new or existing projects.
+
+    Dependable and take ownership of their work.
+
+    Strive for excellence in the work they deliver.
+
+Major Responsibilities/Activities
+
+    Develop and maintain cloud applications built on top of AWS infrastructure.
+
+    Implement high-quality new features that are scalable, available, and reliable. 
+
+    Participate in design and code reviews.
+
+    Support other activities in the development lifecycle including requirement gathering, architecture review, testing, and documentation. 
+
+    Support production environment through handling support inquiries and addressing production issues.
+
+Requirements 
+
+    Bachelor’s degree in Computer Science, Computer Engineering, or related disciplines.
+
+    1 year work experience in backend Java development.
+
+    Experience with Unix operating environments (Linux, macOS).
+
+    Ideally experience with AWS or cloud application development.
+
+Technology Stack
+
+    Backend: Java, Spring Boot, Python.
+
+    Frontend: JavaScript, HTML/CSS, React/Redux, Knockout.
+
+    Amazon Web Services: EC2, S3, CloudFormation, CloudWatch, Lambda, DynamoDB, Kafka, ElastiCache (Redis), SQS.
+
+*Those interested in this role must be located in the greater Toronto area and willing to come into the office 1-2 times a week in downtown Toronto.
+ 
