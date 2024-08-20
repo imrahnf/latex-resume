@@ -1,35 +1,36 @@
-Software Engineer, New Grad (2025)
-at Sentry (View all jobs)
-Toronto, Canada
-About Sentry
+Who we are
+Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities.
+ 
+Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Geotab Marketplace ®, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes.
+ 
+Our team is growing and we’re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it’s like to be a Geotabber, check out our blog and follow us @InsideGeotab on Instagram. Join our talent network to learn more about job opportunities and company news.
+Who you are:
 
-Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+Geotab is seeking a Software Developer who will develop high level code with attention to system integration and scalability. You are able to create representations for functions and user interfaces. You will ensure that the software meets all requirements of design, quality, security, extensibility etc. You have the ability to take the solution all the way to the finish line.
+What you'll do:
 
-With more than $217 million in funding and 100,000+ organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
-About the role
+The Software Developer, Full Stack will be part of a team who builds a web-based, state-of-the-art, telematics platform that makes sense of the data collected by our custom-built hardware. We receive detailed data and metrics for millions of vehicles and devices globally, which is processed and interpreted to create actionable information for our customers. You will write high-performance C# code to process and store this information in real time. Understanding the performance impact of good systems design, multithreading, and scalability is a must for this position.
+How you'll make an impact
 
-Sentry is looking for talented new graduates to join our growing Software Engineering teams. Engineers at Sentry are challenged to solve a range of technical problems: from building fast and delightful UIs for navigating millions of error and performance events, to architecting solutions that ingest, store, and index terabytes of data every day. As a Software Engineer, New Grad, you will be coached by a diverse team of multi-talented engineers and will directly impact a complex and growing codebase.
-In this role you will
+    Define and design new functionality in collaboration with other members of the development team.
+    Perform Test-Driven and Security-Driven Development.
+    Conduct comprehensive code reviews and ensure that coding standards are followed.
+    Analyze call stacks, trace files, debug logs or performance data to troubleshoot and identify the root cause of bugs.
+    Participate in development of prototypes, minimum viable products and PoCs.
+    Direct team-wide maintenance of code quality, organization and automation.
+    Provide design documents and documentation to ensure efficient maintenance and code reuse.
+    Provide recommendations for improvements in the overall development process.
+    Participate in a 24x7 on-call rotating schedule.
 
-    Work with a team to develop and extend the Sentry product by writing software in either Python or JavaScript (or both)
-    Be responsible for full software development lifecycle - design, development, testing, and operating in production
-    Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders (such as product managers)
-    Act on feedback, coaching, and mentorship from your manager and teammates
+What you'll bring to the role
 
-You’ll love this job if you
+    2+ years of experience in software development with a solid understanding of object-oriented design, and multithreaded programming (Preferrably experience with C# and .NET Framework).
+    Understanding of database design and query optimization and experience with relational databases (Perferrably experience with PostgreSQL).
+    Experience with front-end languages and libraries (e.g. HTML/CSS, JavaScript, Typescript) and JavaScript frameworks (e.g. React)
+    Experience with RESTful API design and development.
+    Working knowledge of Docker and Kubernetes.
+    Knowledge of software development best practices, including version control (Git), testing, and code reviews.
+    Post-secondary Diploma/Degree specialization in Computer Science, Software Engineering, or a related field.
 
-    Want to actively use the product you're building (we dogfood Sentry every day)
-    Want to start your career at a high-growth startup
-    Want to join a modern software development team that iterates & ships code rapidly
-    Are excited at the opportunity to contribute to an open-source project every day
-
-Qualifications
-
-    B.S. or higher in Computer Science (or similar degree program)
-    At least 1 previous internship or equivalent practical experience
-    Implementation skills with one or more general-purpose programming languages, e.g. Python, JavaScript, Java, etc.
-    Good knowledge of algorithms, data structures, and object-oriented design principles
-    Experience working with version control and unit testing
-    Please note visa sponsorship is not available for this position
-
-The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is $124,000 to $134,000. A successful candidate’s actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidate’s work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentry’s employee benefit plans/programs applicable to the candidate’s position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Company’s benefit plans/programs.
+Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees.
+ 
