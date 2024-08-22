@@ -1,35 +1,40 @@
-Software Engineer, New Grad (2025)
-at Sentry (View all jobs)
-Toronto, Canada
-About Sentry
+At Canadian Tire, we are committed to providing students with a supportive and collaborative environment that fosters knowledge sharing and offers key experiences to help them develop their capabilities through projects and objectives. We believe in setting specific and measurable goals that align with our business objectives to support learning and help students achieve their full potential. Our culture emphasizes learning from others, continuous improvement, agility, growth, and innovation, and we are invested in building a talented, diverse workforce for the future of Canada and Canadian Tire. Additionally, we are dedicated to building strong relationships with our student employees by engaging with them throughout their education and career pursuits and creating opportunities for ongoing communication and relationship building.
 
-Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+Our IT team plays a critical role in our evolution as we transition to an omni-retailer, where digital complements the physical. We are committed to being a world-class digital organization and leverage cutting-edge technologies to bring our digital strategy to life across various channels. This includes utilizing artificial intelligence technologies, such as machine learning and natural language processing, to enhance customer experiences and drive business growth. Our IT professionals are innovative, agile, and knowledgeable about the latest advancements in AI. They possess a strong understanding of the convergence of digital and physical retail and have proven their ability to leverage AI, augmented reality, IoT, and data analytics to boost customer loyalty, drive traffic, and improve overall business performance. With their expertise, we are able to provide seamless experiences for our customers both in-store, online, and on mobile devices, ultimately improving customer experiences, driving traffic, and boosting loyalty.
 
-With more than $217 million in funding and 100,000+ organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
-About the role
+What You’ll Do
+ 
+Canadian Tire’s Next Generation Talent Program is a new grad rotational program that provides a unique opportunity to develop broad technological expertise and a thorough understanding of core technology principles. You’ll learn to how to integrate agile methodologies, emerging technologies, and business processes that drive tangible results in digital innovation.  You’ll also leverage technologies and solutions to work smarter and better connect with our current and future customers. 
 
-Sentry is looking for talented new graduates to join our growing Software Engineering teams. Engineers at Sentry are challenged to solve a range of technical problems: from building fast and delightful UIs for navigating millions of error and performance events, to architecting solutions that ingest, store, and index terabytes of data every day. As a Software Engineer, New Grad, you will be coached by a diverse team of multi-talented engineers and will directly impact a complex and growing codebase.
-In this role you will
+The program is designed to put you at the forefront of digital evolution in retail, building the next generation of technologists at Canadian Tire.  The program is a two-year rotational program that consists of three progressive 8-month rotations within IT.
 
-    Work with a team to develop and extend the Sentry product by writing software in either Python or JavaScript (or both)
-    Be responsible for full software development lifecycle - design, development, testing, and operating in production
-    Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders (such as product managers)
-    Act on feedback, coaching, and mentorship from your manager and teammates
+Rotational Options:
 
-You’ll love this job if you
+    Digital, eCommerce, mobile development, and Other Delivery
+    Cloud Computing & Automation
+    Supply Chain Technology
+    Big Data, Data Technology & Data Science
+    Information Technology Service Management (ITSM)
+    Artificial Intelligence and Emerging Technology
+    Cybersecurity Incident Response & Threat Intelligence
+    Cybersecurity Project Delivery & DevSecOps
+    Cybersecurity GRC (Governance, Risk, & Compliance)
 
-    Want to actively use the product you're building (we dogfood Sentry every day)
-    Want to start your career at a high-growth startup
-    Want to join a modern software development team that iterates & ships code rapidly
-    Are excited at the opportunity to contribute to an open-source project every day
+Who You Are:
 
-Qualifications
+We are looking for students who have graduated in any time since December 2023 who are:
 
-    B.S. or higher in Computer Science (or similar degree program)
-    At least 1 previous internship or equivalent practical experience
-    Implementation skills with one or more general-purpose programming languages, e.g. Python, JavaScript, Java, etc.
-    Good knowledge of algorithms, data structures, and object-oriented design principles
-    Experience working with version control and unit testing
-    Please note visa sponsorship is not available for this position
+    Innovative, curious, proactive individuals who can learn and thrive in demanding and fast-paced situations.
+    Familiarity with artificial intelligence technologies, such as machine learning and natural language processing, and a keen interest in exploring their applications in various industries
+    passionate about technology and looking to fast track their career in IT
+    problem solvers, with the ability to analyze, multi-task and prioritize to meet business objectives.
+    agile and innovative IT professionals, who are able to manage in an environment of change and ambiguity with multiple stakeholders.
+    strategic thinkers who take initiative and are capable of building, launching, and managing projects/programs that drive results for our customers and communicate results and requirements in business context.
+    collaborative team players with superior communication and influencing skills.
+    Ability to adapt to the evolving landscape of Artificial Intelligence and stay updated with the latest advancements, demonstrating a forward-thinking mindset in leveraging AI for innovation and problem-solving.
 
-The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is $124,000 to $134,000. A successful candidate’s actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidate’s work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentry’s employee benefit plans/programs applicable to the candidate’s position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Company’s benefit plans/programs.
+If you think big yet understand the details, can envision but also execute, and are passionate while being grounded – we are looking for you.
+
+What You’ve Done
+ 
+You are an upcoming undergraduate or post-graduate in Engineering, Computer Science, Computer Networking, Computer Systems Technology, Information Technology or Cybersecurity, with a demonstrated passion for digital and emerging technologies and experience working in a data-driven, analytical environment.
