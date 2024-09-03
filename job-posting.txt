@@ -1,36 +1,58 @@
-Who we are
-Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities.
+
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+
+We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives. 
+
+AMD together we advance_
+Responsibilities
+
+SOFTWARE DEVELOPMENT ENGINEER 2 
+
  
-Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Geotab Marketplace ®, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes.
- 
-Our team is growing and we’re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it’s like to be a Geotabber, check out our blog and follow us @InsideGeotab on Instagram. Join our talent network to learn more about job opportunities and company news.
-Who you are:
 
-Geotab is seeking a Software Developer who will develop high level code with attention to system integration and scalability. You are able to create representations for functions and user interfaces. You will ensure that the software meets all requirements of design, quality, security, extensibility etc. You have the ability to take the solution all the way to the finish line.
-What you'll do:
+THE ROLE:   
 
-The Software Developer, Full Stack will be part of a team who builds a web-based, state-of-the-art, telematics platform that makes sense of the data collected by our custom-built hardware. We receive detailed data and metrics for millions of vehicles and devices globally, which is processed and interpreted to create actionable information for our customers. You will write high-performance C# code to process and store this information in real time. Understanding the performance impact of good systems design, multithreading, and scalability is a must for this position.
-How you'll make an impact
+We are looking for a dynamic, energetic Software Systems Design Engineer to join our growing team. You will contribute to the core team that validate the tests for AMD GPU based compute software stack. You will be responsible for maintaining the ROCm stack quality by running those test suites (automated, manual) and suggest enhancements that ensure enterprise quality for AMD’s Software Compute stack. You will work closely with other software and hardware engineers and architects This is an exciting opportunity to work on the cutting edge of GPU Compute technologies. Candidates with a solid foundation in computer science, research or project experience in GPU rendering, Machine Learning and performance are very welcome.
 
-    Define and design new functionality in collaboration with other members of the development team.
-    Perform Test-Driven and Security-Driven Development.
-    Conduct comprehensive code reviews and ensure that coding standards are followed.
-    Analyze call stacks, trace files, debug logs or performance data to troubleshoot and identify the root cause of bugs.
-    Participate in development of prototypes, minimum viable products and PoCs.
-    Direct team-wide maintenance of code quality, organization and automation.
-    Provide design documents and documentation to ensure efficient maintenance and code reuse.
-    Provide recommendations for improvements in the overall development process.
-    Participate in a 24x7 on-call rotating schedule.
+   
 
-What you'll bring to the role
+THE PERSON:   
 
-    2+ years of experience in software development with a solid understanding of object-oriented design, and multithreaded programming (Preferrably experience with C# and .NET Framework).
-    Understanding of database design and query optimization and experience with relational databases (Perferrably experience with PostgreSQL).
-    Experience with front-end languages and libraries (e.g. HTML/CSS, JavaScript, Typescript) and JavaScript frameworks (e.g. React)
-    Experience with RESTful API design and development.
-    Working knowledge of Docker and Kubernetes.
-    Knowledge of software development best practices, including version control (Git), testing, and code reviews.
-    Post-secondary Diploma/Degree specialization in Computer Science, Software Engineering, or a related field.
+As a Jr. Software Systems Design Engineer, you will deliver our next generation of products in the computer graphics industry – 3D Gaming, Display Technologies, Compute, Virtual Reality, etc. In this high visibility position, your systems engineering expertise will be necessary to define products, develop solutions, assess root causes, and produce solution resolutions. As a senior member of the team, taking initiative in mentoring to achieve the team’s goal of on time delivery is expected. 
 
-Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees.
- 
+   
+
+KEY RESPONSIBILITIES:   
+
+    Drive technical innovation to improve AMD’s capabilities across product development and validation, including software tools and script development, technical and procedural methodology enhancement, and various internal and cross-functional initiatives. 
+    Responsible for AMD’s new GPU/System bring up, ROCm SW stack testing, etc.
+    Responsible for quality and performance timeliness of result for a portion of project/process.
+    Contribute to Improve overall process, quality of products.
+    Be involved in the automation of manual test cases and work closely with automation infrastructure.
+    Executing white box, black box, and regression tests for existing ROCm features.
+    Responsible for quality and timeliness of result for a portion of project/process.
+    Make more complex technical decisions independently.
+    Implement checks and balances independently to minimize the impact of mistakes.
+    Lead collaborative approaches with multiple teams.  
+    Mentor others to achieve integrated projects.
+
+   
+
+PREFERRED EXPERIENCE:   
+
+    Good understanding of test lifecycle, QA process & terminology.
+    Strong knowledge of Device drivers, graphics, multimedia, Codec.
+    Test Execution Experience in an automation lab with multiple systems.
+    Define, develop, execute functional/performance/load tests, and integrate them with automated test systems.
+    Establishing and sharing best practices, designing, and executing a robust test strategy.
+    Proficiency in at least one programming language preferably Python.
+    Strong understanding & Hands-on exp. with Linux OS internals, device manager.
+    Hands-on issue debugging skills, issue isolation with Linux kernel, driver module level.
+    Strong understanding of PC hardware, SoC, Chipsets, Graphics cards, BIOS & VBIOS.
+    Understanding of parallel programming, ideally OpenCL, ROCm, CUDA, and OpenACC is a plus.
+    Understanding machine learning, artificial intelligence, computer vision technologies is a plus.
+    Strong analysis, problem-solving & interpersonal skills.
+    Good verbal & written communication skill is a must.
+    Good attitude, result-driven & ability to deliver on next-gen technology.
+    Knowledge of KVM/XEN/VMWARE is a plus  
