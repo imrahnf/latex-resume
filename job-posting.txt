@@ -1,35 +1,78 @@
-Software Engineer, New Grad (2025)
-at Sentry (View all jobs)
-Toronto, Canada
-About Sentry
+Job Number: 69510 
+Group: Magna Exteriors  
+Division: Co-Ex-Tec 
+Job Type: Permanent/Regular 
+Location: CONCORD 
+Work Style:  
 
-Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+ 
+About us
 
-With more than $217 million in funding and 100,000+ organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
-About the role
+We see a future where everyone can live and move without limitations. That’s why we are developing technologies, systems and concepts that make vehicles safer and cleaner, while serving our communities, the planet and, above all, people.
 
-Sentry is looking for talented new graduates to join our growing Software Engineering teams. Engineers at Sentry are challenged to solve a range of technical problems: from building fast and delightful UIs for navigating millions of error and performance events, to architecting solutions that ingest, store, and index terabytes of data every day. As a Software Engineer, New Grad, you will be coached by a diverse team of multi-talented engineers and will directly impact a complex and growing codebase.
-In this role you will
+ 
 
-    Work with a team to develop and extend the Sentry product by writing software in either Python or JavaScript (or both)
-    Be responsible for full software development lifecycle - design, development, testing, and operating in production
-    Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders (such as product managers)
-    Act on feedback, coaching, and mentorship from your manager and teammates
+Forward. For all.
 
-You’ll love this job if you
+ 
+Group Summary
 
-    Want to actively use the product you're building (we dogfood Sentry every day)
-    Want to start your career at a high-growth startup
-    Want to join a modern software development team that iterates & ships code rapidly
-    Are excited at the opportunity to contribute to an open-source project every day
+The Magna Exteriors portfolio of products includes access systems such as liftgates, exterior trim, modular systems, front-end modules including fascia, active aerodynamic systems and other lightweight structural components for automotive, commercial truck and other industrial markets.
 
-Qualifications
+Recognized globally as an innovator in all aspects of vehicle exteriors, Magna provides everything needed, from materials development and design through manufacturing and assembly, to help automakers create sleek, state-of-the-art vehicles across the world.
 
-    B.S. or higher in Computer Science (or similar degree program)
-    At least 1 previous internship or equivalent practical experience
-    Implementation skills with one or more general-purpose programming languages, e.g. Python, JavaScript, Java, etc.
-    Good knowledge of algorithms, data structures, and object-oriented design principles
-    Experience working with version control and unit testing
-    Please note visa sponsorship is not available for this position
+ 
+About the Role
 
-The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is $124,000 to $134,000. A successful candidate’s actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidate’s work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentry’s employee benefit plans/programs applicable to the candidate’s position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Company’s benefit plans/programs.
+The Data Engineer will work closely with the Data Scientists, IT Administrators, and Manufacturing Engineers from various departments to meet data requirements for analysis and modeling. You will be responsible for developing and maintaining data pipelines to various focus areas related to production processes, part data, and Sustainability efforts within the company.  The successful candidate will be expected to evaluate requirements, define sensor and connectivity requirements and ensure the correct and accurate data is recorded. 
+Your Responsibilities
+
+    Develop and maintain data pipelines to extract, transform, and load data from various sources into the company's data ecosystem. Deploy and manage sensors to monitor data and statistics related to production processes, part information, as well as energy sources, including power usage, steam, gas, water, and air.
+
+    Collect and analyze sustainability data to identify patterns, trends, and areas for improvement. Develop action plans based on data analysis to support the company's sustainability goals and initiatives.
+
+    Collaborate with government agencies to secure funding for sustainability improvements and maintain compliance with relevant regulations. Coordinate with data scientists and other stakeholders to ensure data integrity, accuracy, and consistency.
+
+    Utilize data visualization tools and techniques to create reports and presentations to communicate findings and progress. Develop and maintain documentation related to data processes, systems, and workflows.
+
+    Stay updated on advancements in data engineering technologies and best practices, and propose improvements to existing systems. Actively participate in cross-functional teams and contribute to the development of sustainable practices across the organization.Develop and implement standards to be included in our new production lines so all sustainability sensors are in place prior to equipment arriving at the facility.
+
+    Communicate and Present sustainability goals to both technical and non-technical members of the organization both in small format reviews and large group presentations.
+
+Who we are looking for
+
+    Bachelor's degree in a relevant field such as Computer science, engineering, data science, or a related discipline.
+
+    Proven experience working with data in a professional environment
+
+    Proficiency in Relational Databases in SQL as well as UNS Structures in AWS and Azure data systems
+
+    Familiarity with data visualization tools such as PowerBI and Graffana
+
+    Knowledge of sustainability regulations and funding opportunities
+
+Your preferred qualifications
+
+Accommodations for disabilities in relation to the job selection process are available upon request.
+
+Candidates will be required to complete a Criminal Records Check and, if deemed necessary, a Credit Check as part of the candidate selection process.
+What we offer
+
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+Site Benefits
+
+    Medical and Dental Benefits after probationary period
+
+    Profit Sharing (EEPPP) and Company Match Group RRSP Program
+
+    Company Paid Basic Life Insurance and Accidental Death and Dismemberment (AD&D)
+
+    Corporate Plans for Roger's Cellphone Data Plans
+
+    Employee Discounts: Auto and Home Insurance, Retail, Restaurants, etc...
+
+    Educational Assistance Program
+
+Awareness. Unity. Empowerment.
+
+At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email to comply with GDPR requirements and your local Data Privacy Law.
