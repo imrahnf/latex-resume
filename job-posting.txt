@@ -1,35 +1,32 @@
-Software Engineer, New Grad (2025)
-at Sentry (View all jobs)
-Toronto, Canada
-About Sentry
 
-Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+Job Description
+Job Description
 
-With more than $217 million in funding and 100,000+ organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
-About the role
+About TCS:
 
-Sentry is looking for talented new graduates to join our growing Software Engineering teams. Engineers at Sentry are challenged to solve a range of technical problems: from building fast and delightful UIs for navigating millions of error and performance events, to architecting solutions that ingest, store, and index terabytes of data every day. As a Software Engineer, New Grad, you will be coached by a diverse team of multi-talented engineers and will directly impact a complex and growing codebase.
-In this role you will
+Tata Consultancy Services is an IT services, consulting, and business solutions organization that has been partnering with many of the world's largest businesses in their transformation journeys for over 55 years. Its consulting-led, cognitive powered portfolio of business, technology, and engineering services and solutions is delivered through its unique Location Independent Agile™ delivery model, recognized as a benchmark of excellence in software development. A part of the Tata group, India-s largest multinational business group, TCS has over 615,000 of the world's best-trained consultants in 55 countries. The company generated consolidated revenues of US $27.9 billion in the fiscal year ended March 31, 2023, and is listed on the BSE and the NSE in India. TCS- proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.
 
-    Work with a team to develop and extend the Sentry product by writing software in either Python or JavaScript (or both)
-    Be responsible for full software development lifecycle - design, development, testing, and operating in production
-    Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders (such as product managers)
-    Act on feedback, coaching, and mentorship from your manager and teammates
+Skills and Responsibilities:
 
-You’ll love this job if you
+Java development background
+Experience with functional programming
+Expertise in Spring Boot and related frameworks
+Experience with API development
+Experience with Angular 15+
+Experience with Cloud-native development (especially in Pivotal Cloud Foundry and/or Red Hat OpenShift Container Platform, and Kubernetes)
+Proficiency in MS SQL Server or Oracle or other relational databases
+Solid understanding of Kafka for event-driven architecture
+Proficient in GIT for version control
+Excellent problem-solving skills and the ability to troubleshoot complex issues
+Strong communication and collaboration skills
+Must be highly motivated, proactive and capable of working independently with minimal supervision
+Able to thrive in a fast-paced, dynamic environment and quickly adapt to new technologies and priorities
+Good to have banking domain experience
+Design, Develop and maintain high quality, highly scalable java based applications
+Ensure high code quality with automated testing
+Deploy and manage applications in PCF/OCP platforms
+Integrate and utilize Kafka for data processing.
 
-    Want to actively use the product you're building (we dogfood Sentry every day)
-    Want to start your career at a high-growth startup
-    Want to join a modern software development team that iterates & ships code rapidly
-    Are excited at the opportunity to contribute to an open-source project every day
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontari o Human Rights Code (OHRC). Should you require accommodations during the recruitment and selection process, please inform Human Resource
 
-Qualifications
-
-    B.S. or higher in Computer Science (or similar degree program)
-    At least 1 previous internship or equivalent practical experience
-    Implementation skills with one or more general-purpose programming languages, e.g. Python, JavaScript, Java, etc.
-    Good knowledge of algorithms, data structures, and object-oriented design principles
-    Experience working with version control and unit testing
-    Please note visa sponsorship is not available for this position
-
-The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is $124,000 to $134,000. A successful candidate’s actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidate’s work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentry’s employee benefit plans/programs applicable to the candidate’s position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Company’s benefit plans/programs.
+Thank you for your interest in TCS. Candidates that meet the qualification for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile.
